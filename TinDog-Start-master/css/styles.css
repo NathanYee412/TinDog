@@ -52,3 +52,30 @@ h1 {
     transform: rotate(20deg);
     width: 60%;
 }
+
+/* Features  */
+
+.features-col {
+    margin: 2rem auto;
+}
+
+.features-col-item {
+    margin: auto;
+}
+
+#features h3 {
+    font-family: 'montserrat';
+    size: 1.5rem;
+}
+
+#features p {
+    color: #8f8f8f;
+}
+
+#features span {
+    color: #ef8172;
+}
+
+#features span:hover {
+    color: #ff4c68;
+}
