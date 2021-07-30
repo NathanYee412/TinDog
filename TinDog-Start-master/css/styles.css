@@ -99,7 +99,6 @@ h1 {
 
 #testimonials {
     background-color: #ef8172;
-    padding: 7% 15%;
     text-align: center;
     color: #fff;
 }
@@ -115,6 +114,10 @@ h1 {
     margin: 20px;
 }
 
+.carousel-item {
+    padding: 7% 15%;
+}
+
 /* Press Section  */
 
 #press {
@@ -127,3 +130,4 @@ h1 {
     width: 10%;
     margin: 20px 20px 50px 20px;
 }
+
