@@ -58,15 +58,19 @@ h2 {
 /* Title Image  */
 
 .iphone {
-    -ms-transform: rotate(20deg);
-    transform: rotate(20deg);
     width: 60%;
+    transform: rotate(25deg);
+    position: relative;
+    left: 90px;
 }
 
 /* Features  */
 
 #features {
-    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+    bottom: 100px;
 }
 
 .features-col {
@@ -140,6 +144,7 @@ h2 {
 
 .card {
     height: 400px;
+    margin: 2%;
 }
 
 .pricing-h2 {
