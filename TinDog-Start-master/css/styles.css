@@ -171,3 +171,17 @@ h2 {
 #footer {
     background-color: gray;
 }
+
+
+@media (max-width:1028px) {
+    
+    #title {
+        text-align: center;
+    }
+
+    .iphone {
+        width: 60%;
+        position: static;
+        transform: rotate(0);
+    }
+}
